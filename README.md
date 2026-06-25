@@ -47,19 +47,23 @@ current_focus: SOC Analysis & Networking
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,python,mysql&theme=dark&perline=5" />
+
+<br><br>
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,bash,powershell&theme=dark&perline=7" />
 
-</div>
+<br><br>
 
-<br>
+### 🌐 Networking & Security
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 </div>
 
