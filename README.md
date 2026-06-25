@@ -27,7 +27,7 @@
 ```yaml
 name: Abdo Yahya
 role: IT Student
-location: Egypt
+location: Giza
 current_focus: SOC Analysis & Networking
 ```
 
